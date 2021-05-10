@@ -10,3 +10,7 @@ Projeto feito com React.JS e Styled Components
 Roda o aplicativo em modo de desenvolvimento
 Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
 
+# Acesse o site em:
+
+https://stocksite-murex.vercel.app/
+
